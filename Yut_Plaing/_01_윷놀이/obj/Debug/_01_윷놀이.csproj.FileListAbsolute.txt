@@ -1,0 +1,9 @@
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\bin\Debug\_01_윷놀이.exe.config
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\bin\Debug\_01_윷놀이.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\bin\Debug\_01_윷놀이.pdb
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.Properties.Resources.resources
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.pdb
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_01_윷놀이\obj\Debug\_01_윷놀이.Form1.resources
